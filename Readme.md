@@ -1,5 +1,7 @@
 # Product Catalog with B+ Tree
 
+![](./assets/multilevel-indexing.png)
+
 ## Description
 This project implements a product catalog using a B+ Tree data structure. It allows for efficient insertion and searching of products based on their IDs. The project includes a product data generator to create sample products for testing.
 
